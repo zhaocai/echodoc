@@ -70,6 +70,7 @@ g:echodoc_enable_at_startup			*g:echodoc_enable_at_startup*
 EXAMPLES					*echodoc-examples*
 >
 	let g:echodoc_enable_at_startup = 1
+	set updatetime=500
 >
 ==============================================================================
 TODO						*echodoc-todo*
